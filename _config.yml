@@ -8,8 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: "PyScience"
+email: "info@pyscience.es"
 facebook_username:
 twitter_username:
 github_username:

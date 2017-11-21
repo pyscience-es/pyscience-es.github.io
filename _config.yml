@@ -10,8 +10,8 @@ url: "" # the base hostname & protocol for your site
 # User setting
 owner: "PyScience"
 email: "info@pyscience.es"
-facebook_username:
-twitter_username:
+facebook_username: "py4beginners"
+twitter_username: "py4beginners"
 github_username:
 address:
   - line: "Universidad Carlos III de Madrid: Campus de Leganés, Av. de la Universidad, 30, 28911 Leganés, Madrid"

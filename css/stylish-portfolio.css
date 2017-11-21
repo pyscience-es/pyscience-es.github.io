@@ -162,6 +162,13 @@ hr.small {
     -o-background-size: cover;
 }
 
+.header_second {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 20%;
+}
+
 /* About */
 
 .about {

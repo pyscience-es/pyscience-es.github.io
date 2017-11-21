@@ -2,6 +2,22 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-10 col-lg-offset-2 text-center">
+                <hr class="small">
+                  <div class="row">
+                    <div class="col-md-7">
+                      <div class="portfolio-item">
+                        <a href="#">
+                          <img class="img-portfolio img-responsive" src="img/PosterSocialMedia.png">
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
         <h4><strong>{{ site.owner }}</strong>
         </h4>
         <p>
@@ -10,20 +26,16 @@
           {% endfor %}
         </p>
         <ul class="list-unstyled">
-          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>
           <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
           </li>
         </ul>
         <br>
         <ul class="list-inline">
           <li>
-            <a href="https://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+            <a href="https://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-fw fa-3x" style="color: black"></i></a>
           </li>
           <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
-          </li>
-          <li>
-            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-fw fa-3x" style="color: black"></i></a>
           </li>
         </ul>
         <hr class="small">

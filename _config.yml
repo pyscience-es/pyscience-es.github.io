@@ -2,7 +2,7 @@
 title: Curso de Python para principiantes
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Página web del curso de Python para principiantes 2017. Este curso tendrá
+  Página web del curso de Python para principiantes Python4Beginners. Este curso tendrá
   lugar en la Universidad Carlos III de Madrid del 13 al 15 de diciembre.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
